@@ -1,3 +1,3 @@
 # Calendar
-Simple JS Calendar
+Simple JS Calendar.
 Would appreciate attribution
